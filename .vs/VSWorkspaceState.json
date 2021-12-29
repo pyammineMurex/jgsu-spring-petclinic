@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\org",
+    "\\src\\test\\java\\org\\springframework",
+    "\\src\\test\\java\\org\\springframework\\samples",
+    "\\src\\test\\java\\org\\springframework\\samples\\petclinic",
+    "\\src\\test\\java\\org\\springframework\\samples\\petclinic\\model",
+    "\\src\\test\\jmeter"
+  ],
+  "SelectedNode": "\\src\\test\\java\\org\\springframework\\samples\\petclinic\\model\\ValidatorTests.java",
+  "PreviewInSolutionExplorer": false
+}
